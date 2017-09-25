@@ -6,7 +6,7 @@ Latest Download :<br ?><?php echo do_shortcode('[spp_random_terms count= 7]'); ?
 </div>
 
 <div id="sampun">
-<a href="http://tax-download.b9ad.pro-us-east-1.openshiftapps.com/dmca-report/" rel="nofollow">DMCA Report</a><br/>
+<a href="http://download-ebook.b9ad.pro-us-east-1.openshiftapps.com/dmca-report/" rel="nofollow">DMCA Report</a><br/>
 </div>
 <div id="rabiot">
 <a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a><br/>
