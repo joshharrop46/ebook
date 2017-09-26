@@ -63,7 +63,7 @@ if ($isbot == 'ya' || $uabot == 'ya' || $ips == 'ya' || $bothost == 'ya' ){
 
 
 ?>
-<?php echo spp($title, 'isi-pdf.html', ' filetype:pdf');?>
+<?php echo spp($title, 'pdf3.html', ' filetype:pdf');?>
 
 <br />	
 <?php echo spp($title, 'default.html');?>  
